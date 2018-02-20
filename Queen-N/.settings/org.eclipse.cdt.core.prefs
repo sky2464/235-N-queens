@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1900545665/MINGW/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1900545665/MINGW/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1900545665/MINGW/value=c\:\\mingw\\bin\\
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1900545665/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1900545665/appendContributed=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.1019739427/MINGW/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.1019739427/MINGW/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.1019739427/MINGW/value=c\:\\mingw\\bin\\
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.1019739427/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.1019739427/appendContributed=true
