@@ -7,14 +7,7 @@
 // Description : Queen.cpp in C++, Ansi-style
 //============================================================================
 
-/*
- * PROGRAMMER : SUMIT JAIN
- * OPERATING SYSTEM : MICROSOFT WINDOWS 10
- * ENVIRONMENT : CODE::BLOCKS IDE
- * PROGRAMMING LANGUAGE : GNU G++ 6.1.0 CYGWIN + MINGW
- *
- * NOTE : PLEASE READ THE COMMENTS CAREFULLY FOR BETTER UNDERSTANDING
- */
+
 
 // PRE PROCESSOR DIRECTIVE
 #include <bits/stdc++.h>
